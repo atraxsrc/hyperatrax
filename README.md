@@ -30,6 +30,6 @@ Same steps as above but in hyprv_util file located in .config/HyprV/
 ```
 
 
-# Extras
+### Extras
 
 https://github.com/upscayl/upscayl/releases # Image enhancer
