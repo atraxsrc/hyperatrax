@@ -1,7 +1,7 @@
 # hyperatrax
 Ricing on an Arch, by the way.
 
-## Installation
+## Installation, thank you [@SolDoesTech](https://github.com/SolDoesTech)
 ```shell
 yay -S brave-bin fuse
 sudo pacman -S gedit rofi zsh wget curl lsd bitwarden
