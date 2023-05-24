@@ -1,5 +1,5 @@
 # hyperatrax
-Ricing on an Arch, btw.
+Ricing on a Arch, btw.
 
 ## *For Installation, massive thank you [@SolDoesTech](https://github.com/SolDoesTech)*
 
