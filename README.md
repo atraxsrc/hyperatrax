@@ -1,4 +1,4 @@
-# hyperatrax
+# hyperatrax *(in progress)*
 Ricing on a Arch, btw.
 
 ## *For Installation, massive thank you [@SolDoesTech](https://github.com/SolDoesTech)*
